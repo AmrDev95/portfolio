@@ -45,9 +45,9 @@ let myProjects = [
   },
 
   {
-    name:'',
-    description:'I Created a CRM project and designed the template from scratch, the project consisted of several modules. such as formbuilder, chatting module, inventory management module, time scheduling module, and admin dashboard.',
-    images:['']
+    name:`Woman's mind`,
+    description:'I made an arabic/english blog for a client using dotnet core and angular The blog consisted of several modules, a blog, services section where users can sell their work (content writing, services and much more)',
+    images:['img/works/womans-mind.PNG', 'img/works/womans-mind-1.PNG','img/works/womans-mind-2.PNG','img/works/womans-mind-3.PNG','img/works/womans-mind-4.PNG','img/works/womans-mind-5.PNG','img/works/womans-mind-6.PNG','img/works/womans-mind-7.PNG','img/works/womans-mind-8.PNG',]
   }
 ]
 
